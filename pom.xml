@@ -91,6 +91,8 @@
             <version>3.2.8.RELEASE</version>
         </dependency>
 
+
+        <!-- log4j module -->
         <dependency>
             <groupId>commons-logging</groupId>
             <artifactId>commons-logging</artifactId>
